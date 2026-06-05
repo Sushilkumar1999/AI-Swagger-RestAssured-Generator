@@ -151,8 +151,10 @@ mvn clean install
 ### Configure OpenRouter API Key
 
 Set your OpenRouter API key before execution.
+``` java
 // In OpenRouterService.java, line 18
 String apiKey = "your-openrouter-key-here";
+```
 
 ### Run
 
