@@ -25,44 +25,18 @@ The framework:
 
 <img width="1327" height="313" alt="image" src="https://github.com/user-attachments/assets/fa1c47aa-b631-4c7f-b5d2-5cc4a5485eff" />
 
-
-```text
-Swagger/OpenAPI Specification
-              │
-              ▼
-     Swagger Parser Engine
-              │
-              ▼
-    API Metadata Extraction
-              │
-              ▼
-         Prompt Builder
-              │
-              ▼
-      OpenRouter / LLM
-              │
-              ▼
-      Test Code Generator
-              │
-              ▼
-      Generated Code Validator
-              │
-              ▼
-      Java File Generation
-```
-
 ---
 
 ## 🛠️ Tech Stack
 
-* ☕ Java
-* 📦 Maven
-* 📄 Swagger / OpenAPI
-* 🔥 Rest Assured
-* 🧪 TestNG
-* 📦 Gson
-* 🤖 OpenRouter API
-* 🧠 Generative AI
+* Java
+* Maven
+* Swagger / OpenAPI
+* Rest Assured
+* TestNG
+* Gson
+* OpenRouter API
+* Generative AI
 
 ---
 
@@ -112,6 +86,11 @@ Validates generated output before saving:
 * Markdown cleanup
 
 ---
+
+## Sample Generated File
+
+<img width="1364" height="431" alt="image" src="https://github.com/user-attachments/assets/be3f8cac-c37c-42d1-8cfc-b7d9d030c51b" />
+
 
 ## 📊 Execution Results
 
@@ -172,6 +151,8 @@ mvn clean install
 ### Configure OpenRouter API Key
 
 Set your OpenRouter API key before execution.
+// In OpenRouterService.java, line 18
+String apiKey = "your-openrouter-key-here";
 
 ### Run
 
@@ -199,6 +180,7 @@ However, generating reliable, executable automation still requires engineering j
 
 ## 👨‍💻 Author
 
+## Sushil Kumar Nayak - https://www.linkedin.com/in/sushilkumar1999/
 Built by an SDET engineer as a production-quality AI automation portfolio project.
 
 ⭐ If you find this project interesting, consider starring the repository.
