@@ -1,0 +1,17 @@
+target/
+bin/
+test-output/
+.settings/
+.classpath
+.project
+
+*.class
+*.log
+
+.idea/
+*.iml
+
+generatedTests/
+testng.xml
+
+.env
