@@ -7,7 +7,7 @@ public class FileWriterUtil {
 
 	public void saveFile(String fileName, String code) {
 		try {
-			String folderPath = System.getProperty("user.dir") + "\\src\\test\\java";
+			String folderPath = System.getProperty("user.dir") + "\\src\\test\\java\\generatedTests\\";
 			File folder = new File(folderPath);
 			if (!folder.exists()) {
 				folder.mkdirs();
