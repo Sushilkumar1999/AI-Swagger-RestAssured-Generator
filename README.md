@@ -23,6 +23,9 @@ The framework:
 
 ## 🏗️ Architecture
 
+<img width="1327" height="313" alt="image" src="https://github.com/user-attachments/assets/fa1c47aa-b631-4c7f-b5d2-5cc4a5485eff" />
+
+
 ```text
 Swagger/OpenAPI Specification
               │
@@ -196,8 +199,6 @@ However, generating reliable, executable automation still requires engineering j
 
 ## 👨‍💻 Author
 
-**Sushilkumar Nayak**
-
-QA Automation Engineer | API Testing | Test Automation | AI-Powered QA
+Built by an SDET engineer as a production-quality AI automation portfolio project.
 
 ⭐ If you find this project interesting, consider starring the repository.
