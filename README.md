@@ -1,6 +1,6 @@
 ![Java](https://img.shields.io/badge/Java-17+-orange)
-![RestAssured](https://img.shields.io/badge/RestAssured+-orange)
-![TestNG](https://img.shields.io/badge/TestNG+-orange)
+![RestAssured](https://img.shields.io/badge/RestAssured+-brightgreen)
+![TestNG](https://img.shields.io/badge/TestNG+-brightred)
 ![AI](https://img.shields.io/badge/AI-OpenRouter-Yellow)
 ![Build](https://img.shields.io/badge/Build-Maven-brightgreen)
 
